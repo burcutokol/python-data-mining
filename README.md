@@ -1,1 +1,1 @@
-Veri Madenciliği dersi kapsamında grup ödevi olarak yaptığımız COVID-19 salgını verileri ile analiz ve görselleştirme.
+Veri Madenciliği dersi kapsamında grup ödevi olarak yapılan COVID-19 salgını verileri ile analizi ve görselleştirmesi.
